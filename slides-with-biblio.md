@@ -41,3 +41,7 @@ This analysis evaluates if the process spread is within the customer tolerance l
 <iframe data-src='media/plots/m1_cap_study.html' width='100%' height='500px' style='border:none;'></iframe>
 :::
 ::::
+
+---
+# Bibliography
+<div id="refs"></div>
